@@ -1,2 +1,2 @@
 # Dev-PSU-Fall-2020
-A repository for storing progress on Dev PSU projects
+This is the first change for the project
